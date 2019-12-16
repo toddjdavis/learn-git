@@ -44,7 +44,7 @@ In this step we will setup the origin for the repository. We'll do this by conne
 * Run `git init`. 
   * <details>
 
-    <summary> What just happened? </summary>
+    <summary> What just happened? </I told my commuter to watch this file>
 
     <br />
 
@@ -54,7 +54,7 @@ In this step we will setup the origin for the repository. We'll do this by conne
 * Run `git remote add origin [Repository URL goes here]`. You can get your URL from going to repository you made earlier in your browser and copying the address.
   * <details>
 
-    <summary> What just happened? </summary>
+    <summary> What just happened? </i linked my text to the online cloud>
 
     <br />
 
@@ -78,7 +78,7 @@ In this step, we will push code to GitHub.
 * Run `git status`.
   * <details>
 
-    <summary> What does this do? </summary>
+    <summary> What does this do? </it saved my tecxt ti the cloud>
 
     <br />
 
@@ -88,7 +88,7 @@ In this step, we will push code to GitHub.
 * Run `git diff`.
   * <details>
 
-    <summary> What does this do? </summary>
+    <summary> What does this do? </this changed my code>
 
     <br />
 
@@ -98,7 +98,7 @@ In this step, we will push code to GitHub.
 * Run `git add nameOfMyFile.fileExtension`.
   * <details>
 
-    <summary> What does this do? </summary>
+    <summary> What does this do? </it told the computer to watch this file>
 
     <br />
 
@@ -108,7 +108,7 @@ In this step, we will push code to GitHub.
 * Run `git commit -m "The sentence I want associated with this commit message"`.
   * <details>
 
-    <summary> What does this do? </summary>
+    <summary> What does this do? </it chnaged the text on github>
 
     <br />
 
@@ -118,7 +118,7 @@ In this step, we will push code to GitHub.
 * Run `git push origin master`
   * <details>
 
-    <summary> What does this do? </summary>
+    <summary> What does this do? </reuploaded my code to the cloud>
 
     <br />
 
@@ -141,8 +141,7 @@ In this step, we will fork this tutorial repository.
 * Click the `fork` button.
   * <details>
 
-    <summary> What does this do? </summary>
-
+    <summary> What does this do? </it created a copy of the code i can not edit and re opload>
     <br />
 
     This will essentially copy all of the code from this repository, but make it as a new repository under your account. As you can imagine, you can't push directly to the DevMountain repo, because that would not be secure for DevMountain (anyone could make any changes they want). What you should do is create a fork of this repo, then push to your own fork because it's under your own account.
@@ -163,7 +162,7 @@ In this step, we will take the forked repository and clone it down to our machin
 * Run `git clone [the url you copied]`.
   * <details>
 
-    <summary> What does this do? </summary>
+    <summary> What does this do? </it downlaoded the code to vs stodio where i can now change it>
 
     <br />
 
